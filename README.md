@@ -1,3 +1,5 @@
 # Wrist-Watcher
 
-Plz pip install wxPython 2 k thx bye
+sudo apt-get install libgtk-3-dev
+
+pip install wxPython 2 k thx bye
